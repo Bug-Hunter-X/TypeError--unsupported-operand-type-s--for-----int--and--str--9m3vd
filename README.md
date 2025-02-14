@@ -1,0 +1,1 @@
+This example demonstrates a common Python error: a TypeError that occurs when trying to add an integer and a string using the '+' operator.  The solution shows how to handle this by explicitly converting the inputs to the same type before the addition or using string formatting to combine them.
